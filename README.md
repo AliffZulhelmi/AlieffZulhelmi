@@ -22,7 +22,7 @@
 - [*Current Learning*] Digital Forensic, Malware Development, Red-Teaming
 - [*Current PL Learning*] C/C++/C# Programming Language
 
-- Part Of ELITEGHOST MY | EG [WEBSITE](www.eliteghost.tech)
+- Part Of ELITEGHOST MY | EG [WEBSITE](https://eliteghost.tech/)
 - I’m currently at secondary-school in 2023(Final Year | SPM)
 
 <br><br>
