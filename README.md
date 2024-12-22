@@ -8,24 +8,20 @@
 
 </p>
 
-<br>
 
 ##   **ABOUT ME**
 
-
-
 <br>
 
-- A passionate Self-taught Front-end developer
-- A passionate Self-taught Programmer
+- A passionate self-taught front-end developer
+- A passionate self-taught programmer
+- An active Local and International CTF Player
 
-- Playing CTF's as hobby
-
-- [*Current Learning*] Digital Forensic, Malware Development, Red-Teaming
+- [*Current Learning*] Red-Teaming, Malware Analysis
 - [*Current PL Learning*] C/C++/C# Programming Language
 
-- Part Of ELITEGHOST MY | EG [WEBSITE](https://eliteghost.tech/)
-- I’m currently at secondary-school in 2023(Final Year | SPM)
+- Part Of ELITEGHOST MY
+- Doing Diploma In Cyber Security Technology
 
 <br><br>
 
