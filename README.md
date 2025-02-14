@@ -20,7 +20,6 @@
 - [*Current Learning*] Red-Teaming, Malware Analysis
 - [*Current PL Learning*] C/C++/C# Programming Language
 
-- Part Of ELITEGHOST MY
 - Doing Diploma In Cyber Security Technology
 
 <br><br>
